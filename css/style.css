@@ -348,7 +348,7 @@
   }
   .banner_bg{
     /* change the img to banner img */
-      background-image: url(../images/banner.jpg);
+      background-image: url(../images/cover.png);
       background-size: cover;
       background-position: center center;
       position: relative;
